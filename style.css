@@ -1,0 +1,22 @@
+
+body{
+    background-color: aliceblue;
+    background-image: url(https://img.pikbest.com/png-images/qiantu/landline-phone-phone-ringing-icon_2602961.png!w700wp);
+    background-repeat: no-repeat;
+    background-position: 200px 300px;
+    background-size: 300px;
+    background-attachment:fixed;
+    left: 500px;
+    background-position: right;
+}
+h1{
+    color: black;
+    width: 500px;
+    height: 20px;
+    line-height: 10px;
+}
+td{
+    line-height: 30px;
+    background-color: wheat;
+    border: 20px;
+}
